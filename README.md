@@ -1,5 +1,3 @@
-# Socket Server Basico
+# Ticket Manager
 
-Un servidor de Websockets usando Node, Express y Socket.io
-
-Temas cubiertos en mi curso de Node de cero a experto
+Una app que gestiona los tickets de un sistema de atención de colas por medio de sockets.
